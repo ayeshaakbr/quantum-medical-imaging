@@ -1,0 +1,81 @@
+seed 0  majority         k=4     auc 0.500  bal_acc 0.500  (0s)
+seed 0  logreg           k=4     auc 0.915  bal_acc 0.845  (0s)
+seed 0  logreg_trig      k=4     auc 0.910  bal_acc 0.846  (0s)
+seed 0  mlp              k=4     auc 0.917  bal_acc 0.847  (1s)
+seed 0  qnn              k=4     auc 0.918  bal_acc 0.841  (12s)
+seed 0  qnn_no_entangle  k=4     auc 0.922  bal_acc 0.847  (12s)
+seed 0  majority         k=8     auc 0.500  bal_acc 0.500  (0s)
+seed 0  logreg           k=8     auc 0.890  bal_acc 0.811  (0s)
+seed 0  logreg_trig      k=8     auc 0.907  bal_acc 0.840  (0s)
+seed 0  mlp              k=8     auc 0.888  bal_acc 0.802  (0s)
+seed 0  qnn              k=8     auc 0.915  bal_acc 0.840  (34s)
+seed 0  qnn_no_entangle  k=8     auc 0.907  bal_acc 0.845  (38s)
+seed 0  cnn              k=full  auc 0.931  bal_acc 0.833  (29s)
+seed 1  majority         k=4     auc 0.500  bal_acc 0.500  (0s)
+seed 1  logreg           k=4     auc 0.915  bal_acc 0.845  (0s)
+seed 1  logreg_trig      k=4     auc 0.910  bal_acc 0.846  (0s)
+seed 1  mlp              k=4     auc 0.921  bal_acc 0.847  (1s)
+seed 1  qnn              k=4     auc 0.916  bal_acc 0.854  (11s)
+seed 1  qnn_no_entangle  k=4     auc 0.921  bal_acc 0.846  (11s)
+seed 1  majority         k=8     auc 0.500  bal_acc 0.500  (0s)
+seed 1  logreg           k=8     auc 0.890  bal_acc 0.811  (0s)
+seed 1  logreg_trig      k=8     auc 0.907  bal_acc 0.840  (0s)
+seed 1  mlp              k=8     auc 0.888  bal_acc 0.812  (0s)
+seed 1  qnn              k=8     auc 0.908  bal_acc 0.820  (39s)
+seed 1  qnn_no_entangle  k=8     auc 0.905  bal_acc 0.834  (27s)
+seed 1  cnn              k=full  auc 0.933  bal_acc 0.829  (39s)
+seed 2  majority         k=4     auc 0.500  bal_acc 0.500  (0s)
+seed 2  logreg           k=4     auc 0.915  bal_acc 0.845  (0s)
+seed 2  logreg_trig      k=4     auc 0.910  bal_acc 0.846  (0s)
+seed 2  mlp              k=4     auc 0.918  bal_acc 0.845  (1s)
+seed 2  qnn              k=4     auc 0.916  bal_acc 0.846  (21s)
+seed 2  qnn_no_entangle  k=4     auc 0.921  bal_acc 0.850  (10s)
+seed 2  majority         k=8     auc 0.500  bal_acc 0.500  (0s)
+seed 2  logreg           k=8     auc 0.890  bal_acc 0.811  (0s)
+seed 2  logreg_trig      k=8     auc 0.907  bal_acc 0.840  (0s)
+seed 2  mlp              k=8     auc 0.887  bal_acc 0.797  (0s)
+seed 2  qnn              k=8     auc 0.909  bal_acc 0.798  (42s)
+seed 2  qnn_no_entangle  k=8     auc 0.909  bal_acc 0.843  (51s)
+seed 2  cnn              k=full  auc 0.931  bal_acc 0.852  (21s)
+seed 3  majority         k=4     auc 0.500  bal_acc 0.500  (0s)
+seed 3  logreg           k=4     auc 0.915  bal_acc 0.845  (0s)
+seed 3  logreg_trig      k=4     auc 0.910  bal_acc 0.846  (0s)
+seed 3  mlp              k=4     auc 0.918  bal_acc 0.844  (1s)
+seed 3  qnn              k=4     auc 0.916  bal_acc 0.839  (13s)
+seed 3  qnn_no_entangle  k=4     auc 0.922  bal_acc 0.851  (13s)
+seed 3  majority         k=8     auc 0.500  bal_acc 0.500  (0s)
+seed 3  logreg           k=8     auc 0.890  bal_acc 0.811  (0s)
+seed 3  logreg_trig      k=8     auc 0.907  bal_acc 0.840  (0s)
+seed 3  mlp              k=8     auc 0.891  bal_acc 0.811  (1s)
+seed 3  qnn              k=8     auc 0.913  bal_acc 0.820  (46s)
+seed 3  qnn_no_entangle  k=8     auc 0.906  bal_acc 0.846  (37s)
+seed 3  cnn              k=full  auc 0.940  bal_acc 0.829  (35s)
+seed 4  majority         k=4     auc 0.500  bal_acc 0.500  (0s)
+seed 4  logreg           k=4     auc 0.915  bal_acc 0.845  (0s)
+seed 4  logreg_trig      k=4     auc 0.910  bal_acc 0.846  (0s)
+seed 4  mlp              k=4     auc 0.921  bal_acc 0.847  (1s)
+seed 4  qnn              k=4     auc 0.916  bal_acc 0.849  (14s)
+seed 4  qnn_no_entangle  k=4     auc 0.922  bal_acc 0.847  (10s)
+seed 4  majority         k=8     auc 0.500  bal_acc 0.500  (0s)
+seed 4  logreg           k=8     auc 0.890  bal_acc 0.811  (0s)
+seed 4  logreg_trig      k=8     auc 0.907  bal_acc 0.840  (0s)
+seed 4  mlp              k=8     auc 0.887  bal_acc 0.797  (1s)
+seed 4  qnn              k=8     auc 0.909  bal_acc 0.829  (42s)
+seed 4  qnn_no_entangle  k=8     auc 0.905  bal_acc 0.846  (35s)
+seed 4  cnn              k=full  auc 0.922  bal_acc 0.829  (15s)
+
+          model    k  params  val_roc_auc_mean  roc_auc_mean  roc_auc_std  balanced_accuracy_mean  balanced_accuracy_std  train_seconds
+       majority    4       0             0.500         0.500        0.000                   0.500                  0.000          0.004
+         logreg    4       5             0.962         0.915        0.000                   0.845                  0.000          0.056
+    logreg_trig    4       9             0.968         0.910        0.000                   0.846                  0.000          0.018
+            mlp    4      49             0.964         0.919        0.002                   0.846                  0.002          0.872
+            qnn    4      29             0.967         0.916        0.001                   0.846                  0.006         13.862
+qnn_no_entangle    4      29             0.963         0.922        0.000                   0.848                  0.002         11.160
+       majority    8       0             0.500         0.500        0.000                   0.500                  0.000          0.000
+         logreg    8       9             0.972         0.890        0.000                   0.811                  0.000          0.012
+    logreg_trig    8      17             0.973         0.907        0.000                   0.840                  0.000          0.010
+            mlp    8      81             0.972         0.888        0.002                   0.804                  0.007          0.464
+            qnn    8      57             0.974         0.911        0.003                   0.821                  0.015         40.446
+qnn_no_entangle    8      57             0.974         0.906        0.002                   0.843                  0.005         37.682
+            cnn full    2033             0.993         0.932        0.006                   0.835                  0.010         27.834
+figures written to results/figures/
